@@ -1,3 +1,5 @@
+use lib "../lib/";
+
 use Test::More (tests => 7);
 
 use_ok('OddsConverter');
